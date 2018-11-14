@@ -1,0 +1,9 @@
+# The following dihedrals differ between two structures by 30 degrees
+#Dihedral      Dihedral value      Dihedral mask
+THR4_chi1       125.8223         :4@N :4@CA :4@CB :4@OG1
+ILE3_chi2       54.6559         :3@CA :3@CB :3@CG1 :3@CD
+LEU5_chi2       163.6261         :5@CA :5@CB :5@CG :5@CD1
+GLN7_chi2       99.3599         :7@CA :7@CB :7@CG :7@CD
+GLN2_chi3       169.8435         :2@CB :2@CG :2@CD :2@OE1
+GLN7_chi3       113.9684         :7@CB :7@CG :7@CD :7@OE1
+ARG8_chi4       124.5240         :8@CG :8@CD :8@NE :8@CZ

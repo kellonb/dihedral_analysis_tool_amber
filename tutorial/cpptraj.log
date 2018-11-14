@@ -1,0 +1,11 @@
+# 11/14/18 01:32:31
+# ../0_setup/2qnp.opc.18SB.cmap.parm7
+# Loaded topologies:
+#   ../0_setup/2qnp.opc.18SB.cmap.parm7
+trajin ../2qnp.opc.cmap/9md.x
+autoimage
+strip :WAT
+autoimage
+trajout 9md.2qnp.strip.nc
+go
+quit
